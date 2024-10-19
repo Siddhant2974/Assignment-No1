@@ -1,0 +1,7 @@
+#Decalring Array
+ary = [75, 45, 58, 31, 55, 14, 25, 16]
+
+# Find the largest element Using Max()
+largest = max(ary)
+
+print("The largest element is:", largest)
